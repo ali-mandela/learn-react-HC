@@ -1,8 +1,10 @@
 function App() {
 
+  //// evaluated expression { } = final outcome
+
   return (
         <p >
-        cool dude | Muhammad Ali| vite
+        cool dude
       </p>
   )
 }
